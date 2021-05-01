@@ -1,0 +1,3 @@
+# Node.js Mentorship Program
+
+Watching tutorials and working on test projects is great but at a certain point they just stop being the answer. In order for new programmers to be successful they need to work in teams and learn from experienced programmers. This way they can learn best practices and learn how to avoid common pitfalls. And I as a new programmer do seem like I am in desperate need of mentorship. So I think this program will be a great opportunity for me to move forward and reach my goals. And I will do everything I can to the best of my abilities to reach my goals.
